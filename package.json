@@ -9,6 +9,9 @@
     "start": "nodemon ./index.js"
   },
   "author": "WorkOS",
+  "engines": {
+    "node": "18.20.4"
+  },
   "dependencies": {
     "@workos-inc/node": "^7.26.0",
     "cookie-parser": "^1.4.6",
